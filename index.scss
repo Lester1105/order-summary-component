@@ -7,7 +7,7 @@
 }
 body{
     
-    font-size: 16px;
+    
     background-color: $Pale-blue;
     font-family:'Red Hat Display', sans-serif;
     background-size: contain;
@@ -17,6 +17,7 @@ body{
     position:relative;
 }
 .container{
+    font-size: 16px;
     max-width: 450px;
     position: absolute;
     left:50%;
